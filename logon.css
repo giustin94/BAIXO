@@ -1,0 +1,67 @@
+body {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 5%;
+        font-family: 'Josefin Sans', sans-serif;
+    background-color: #64BEDE;
+}
+
+.box {
+    padding: 20px;
+    width: 20%;
+    height: 20%;
+    border: 0;
+    border: 1px solid #e4e4e4;
+    box-shadow: 1px 1px 1px 1px rgba(1, 1, 1, 0.2);
+    background-color: whitesmoke;
+}
+
+.imagen {
+    margin-top: 10%;
+    width: 25%;
+}
+
+.nombre {
+    border: 5px 5px 0 0;
+    margin-bottom: 2px;
+}
+
+.apellido {
+    border: 5px 5px 0 0;
+    margin-bottom: 2px;
+}
+
+.email {
+    border: 5px 5px 0 0;
+    margin-bottom: 2px;
+}
+
+.pass {
+    border: 5px 5px 0 0;
+    margin-bottom: 2px;
+}
+
+.crear {
+    padding: 1em 5em;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    border: 0;
+    border-radius: 22px;
+    font-weight: bold;
+    font-family: 'Josefin Sans', sans-serif;
+    margin-bottom: 20px;
+}
+
+h1 {
+    color: black;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: #AD2501;
+}
